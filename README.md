@@ -1,2 +1,2 @@
 # Firebird_SQL
-Projetos SQL desenvolvido e melhorados.
+Projetos SQL Firebird desenvolvido e melhorados.
